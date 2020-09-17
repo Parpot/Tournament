@@ -17,7 +17,7 @@ const userSchema = new Schema({
         unique: true,
     },
     Password:{
-        type: String,
+        type: Number,
         required: true,
     },
     Role:{
