@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 /**
- * Preposito: Criar a tabela clientes com cada campo
+ * Preposito: Criar a tabela user com cada campo
  * Falta discutir quais os campos para armazenar na base de dados.
  */
 const userSchema = new Schema({
